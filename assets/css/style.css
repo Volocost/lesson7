@@ -1,35 +1,35 @@
 body {
-	width: 2551px;
+  width: 2551px;
   height: 3579px;
 }
 .container {
-	margin: 205px auto 195px;
-	max-width: 2127px;
+  margin: 205px auto 195px;
+  max-width: 2127px;
 }
 .header {
-	max-width: 510px;
-	margin: 0 auto 39px;
+  max-width: 510px;
+  margin: 0 auto 39px;
 }
 .headline-above {
-	margin: 0 auto 24px;
-	width: 24%;
+  margin: 0 auto 24px;
+  width: 24%;
 }
 .headline-middle {
   margin: 0 auto 0;
 
   max-width: 100%;
 
-	color: #22252c;
-	font-family: Bebas Neue Book, sans-serif;
-	font-size: 86px;
-	font-weight: 400;
+  color: #22252c;
+  font-family: Bebas Neue Book, sans-serif;
+  font-size: 86px;
+  font-weight: 400;
   text-align: center;
-	text-transform: uppercase;
-	white-space: nowrap;
+  text-transform: uppercase;
+  white-space: nowrap;
 }
 .headline-below {
-	width: 25%;
-	margin: 0 auto 0;
+  width: 25%;
+  margin: 0 auto 0;
 }
 .contacts {
   max-width: 2127px;
@@ -44,8 +44,8 @@ body {
 }
 
 .inline {
-	display: inline-block;
-	vertical-align: middle;
+  display: inline-block;
+  vertical-align: middle;
 }
 .inline-design {
   width: 22%;
@@ -63,15 +63,15 @@ body {
   background-position: left 90% center;
 }
 .inline-address {
-	margin-left: 36px;
-	margin-right: 44px;
+  margin-left: 36px;
+  margin-right: 44px;
 
   width: 9%;
     
   color: darkgrey;
-	font-family: Lato;
-	font-size: 26px;
-	font-weight: bold;
+  font-family: Lato;
+  font-size: 26px;
+  font-weight: bold;
 }
 .inline-tel {
   width: 15%;
@@ -79,9 +79,9 @@ body {
   background-image: url(../images/Rectangle_3.png);
 }
 .inline-tel p {
-	
-	text-align: center;
-	font-size: 24px;
+  
+  text-align: center;
+  font-size: 24px;
   font-weight: 400;
 }
 .inline-tel a {
@@ -89,11 +89,11 @@ body {
   color: #22252c; 
 }
 .inline-tel img {
-	width: 24px;
-	height: 24px;
+  width: 24px;
+  height: 24px;
 }
 .inline-email {
-	width: 15%;
+  width: 15%;
 
   margin-left: 42px;
 }
@@ -110,7 +110,7 @@ body {
   color: #22252c;
 }
 .main {
-	max-width: 2127px;
+  max-width: 2127px;
 }
 .main h1 {
   margin: 156px 1314px 83px 506px;
@@ -125,8 +125,8 @@ body {
 }
 
 .line {
-	display: inline-block;
-	vertical-align: top;
+  display: inline-block;
+  vertical-align: top;
 }
 .line-writter {
   width: 16%;
@@ -145,11 +145,11 @@ body {
   color: darkgrey;
 }
 .main img {
-	width: 25%;
-	height: 5%;
+  width: 25%;
+  height: 5%;
 
-	margin-top: 92px;
-	margin-left: 379px;
+  margin-top: 92px;
+  margin-left: 379px;
   margin-bottom: 457px;
 }
 .footer {
@@ -157,10 +157,10 @@ body {
   margin: ;
 }
 .footer img {
-	width: 4%;
-	height: 3%;
+  width: 4%;
+  height: 3%;
 
-	margin: 109px 1023px 37px 1024px;
+  margin: 109px 1023px 37px 1024px;
 } 
 @font-face {
   font-family: Bebas Neue Book;
